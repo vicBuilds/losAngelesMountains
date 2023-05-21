@@ -1,3 +1,8 @@
+function scrollToSection(sectionId) {
+  const section = document.getElementById(sectionId);
+  section.scrollIntoView({ behavior: "smooth" });
+}
+
 const carousel = document.querySelector(".carousel");
 const cardsContainer = carousel.querySelector(".cards-container");
 const dots = Array.from(carousel.querySelectorAll(".dot"));
