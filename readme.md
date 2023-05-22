@@ -13,7 +13,7 @@ I have given it my all.
 Thank you,
 Victor Mitra
 
-/************\*\*************\/************\*\*\*************/
+/****\*\*\*\*****\*\*****\*\*\*\*****\/****\*\*\*\*****\*\*\*****\*\*\*\*****/
 
 ## Folder Structure
 
@@ -25,3 +25,10 @@ Victor Mitra
 
 - `scripts`: This folder contains the JavaScript files used for the functionality of the web application.
   - `script.js`: Main JavaScript file for the project.
+
+## TECH STACK
+
+1. HTML
+2. CSS
+3. Vanilla JavaScript
+4. GIT
